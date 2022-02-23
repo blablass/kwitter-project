@@ -6,5 +6,8 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #00ff73, #00ff73, #00ff73, #00ff73, #00ff73);
+background: linear-gradient(to right top, #00ff73, #0004ff, #00ffd5, #a200ff, #00b7ff);
+}
+.login_div{
+  float: none;
 }
